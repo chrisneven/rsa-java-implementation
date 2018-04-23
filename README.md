@@ -12,7 +12,11 @@ Encoder.jar
 
 1. Open terminal
 2. Navigate into the same directory as the jar files
-3. Type in the command: java -jar encoder.jar n e m. Example n, e and m values you could use, you can find in the previous chapter. Make sure you put the message value(m) you want to encrypt in between quotation marks.
+3. Type in the command: 
+```
+java -jar encoder.jar n e m. 
+```
+Example n, e and m values you could use, you can find in the previous chapter. Make sure you put the message value(m) you want to encrypt in between quotation marks.
 4. Press enter to run the application.
 5. If all went well you’ll get a response in the form of the following output:
 
