@@ -12,7 +12,7 @@ Encoder.jar
 
 1. Open terminal
 2. Navigate into the same directory as the jar files
-3. Type in the command: 
+3. Instructions commandline: 
 ```
 java -jar encoder.jar n e m. 
 ```
@@ -24,7 +24,11 @@ Decoder.jar
 
 1. Open terminal
 2. Navigate into the same directory as the jar files
-3. Type in the command: java -jar decoder.jar n e c. Example n, e and c values you could use, you can find in the previous chapter.
+3. Instructions commandline: 
+```
+java -jar decoder.jar n e c. 
+```
+Example n, e and c values you could use, you can find in the previous chapter.
 4. Press enter to run the application
 5. If all went well you’’s get a response in the form of the following output
   
