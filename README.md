@@ -17,6 +17,7 @@ Encoder.jar
 java -jar encoder.jar n e m. 
 ```
 Example n, e and m values you could use, you can find in the previous chapter. Make sure you put the message value(m) you want to encrypt in between quotation marks.
+
 4. Press enter to run the application.
 5. If all went well you’ll get a response in the form of the following output:
 
@@ -29,6 +30,7 @@ Decoder.jar
 java -jar decoder.jar n e c. 
 ```
 Example n, e and c values you could use, you can find in the previous chapter.
+
 4. Press enter to run the application
 5. If all went well you’’s get a response in the form of the following output
   
